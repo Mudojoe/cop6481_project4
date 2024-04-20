@@ -41,7 +41,7 @@ The high/low files are a test to insure the program is working as expected.
 
 ## Program Output
 
-## Random statements
+#### Random statements
 <br>Transaction: Urgent wire transfer needed for overseas client. - Risk Score: 7
 <br>Transaction: New regular monthly payment to local supplier detected. - Risk Score: 3
 <br>Transaction: Transaction requiring immediate clearance is of high value. - Risk Score: 8
@@ -61,14 +61,14 @@ The high/low files are a test to insure the program is working as expected.
 <br>Transaction: Your check printing request has been completed. - Risk Score: 2
 <br>Transaction: Tranfer request initiated and can be canceled before midnight. - Risk Score: 5
 
-## This file contains high-risk transaction descriptions.
+#### This file contains high-risk transaction descriptions.
 <br>Transaction: Immediate transfer request for $100,000 to a high-risk jurisdiction. - Risk Score: 9
 <br>Transaction: Multiple wire transfers just under reporting threshold noticed. - Risk Score: 8
 <br>Transaction: Payment to a company flagged for sanctions violations last month. - Risk Score: 8
 <br>Transaction: Urgent cash disbursement request from an unrecognized offshore account. - Risk Score: 9
 <br>Transaction: Suspicious invoice approval needed for payment exceeding $250,000. - Risk Score: 9
 
-## This file contains low-risk transaction descriptions.
+#### This file contains low-risk transaction descriptions.
 <br>Transaction: Monthly office rent payment via direct debit. - Risk Score: 1
 <br>Transaction: Annual software license renewal fee. - Risk Score: 2
 <br>Transaction: Regular payroll transaction for bi-weekly wages. - Risk Score: 1

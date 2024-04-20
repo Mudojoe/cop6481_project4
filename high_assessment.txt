@@ -1,0 +1,6 @@
+## This file contains high-risk transaction descriptions.
+Immediate transfer request for $100,000 to a high-risk jurisdiction.
+Multiple wire transfers just under reporting threshold noticed.
+Payment to a company flagged for sanctions violations last month.
+Urgent cash disbursement request from an unrecognized offshore account.
+Suspicious invoice approval needed for payment exceeding $250,000.

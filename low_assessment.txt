@@ -1,0 +1,6 @@
+## This file contains low-risk transaction descriptions.
+Monthly office rent payment via direct debit.
+Annual software license renewal fee.
+Regular payroll transaction for bi-weekly wages.
+Subscription fee payment for online services.
+Reimbursement for employee travel expenses.
